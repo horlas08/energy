@@ -14,13 +14,13 @@ export const protectedRoutes: Routes = [
     {
         key: 'energy.business',
         path: '/energy/business/:walletId?',
-        component: lazy(() => import('@/views/user/energy/business/index')),
+        component: lazy(() => import('@/views/user/energy/business/Home')),
         authority: [],
     },
     {
         key: 'energy.substations',
         path: '/energy/substations',
-        component: lazy(() => import('@/views/user/energy/substations/index')),
+        component: lazy(() => import('@/views/user/energy/substations')),
         authority: [],
     },
     // {
