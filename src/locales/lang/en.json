@@ -1,0 +1,24 @@
+{
+    "nav": {
+        "home": "Dashboard",
+        "energy": {
+            "business": "Add New Business"
+        },
+        "substations": "Substations",
+        "transactions": "Transactions",
+        "fundRequest": "Funding Request",
+        "business": {
+            "title": "Business",
+            "details": "Business Details"
+        },
+        "groupMenu": {
+            "groupMenu": "Group menu",
+            "single": "Group single menu item",
+            "collapse": {
+                "collapse": "Group collapse menu",
+                "item1": "Group collapse menu item 1",
+                "item2": "Group collapse menu item 2"
+            }
+        }
+    }
+}
